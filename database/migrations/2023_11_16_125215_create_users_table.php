@@ -22,7 +22,7 @@ return new class extends Migration
             $table->string('city_id')->default('-');
             $table->string('city')->default('-');
             $table->string('postal_code')->default('-');
-            $table->text('address')->default('-');
+            $table->string('address')->default('-');
             $table->string('phone')->default('-');
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');

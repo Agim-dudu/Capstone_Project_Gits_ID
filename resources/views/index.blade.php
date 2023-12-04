@@ -15,7 +15,7 @@
 
 <section id="home-section" class="hero">
     <div class="home-slider owl-carousel">
-        <div class="slider-item" style="background-image: url('http://127.0.0.1:8000/assets/images/bg-cart.jpg');">
+        <div class="slider-item" style="background-image: url('https://anggurkita.eudeka.my.id/assets/images/bg-cart.jpg');">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -30,7 +30,7 @@
             </div>
         </div>
 
-        <div class="slider-item" style="background-image: url('http://127.0.0.1:8000/assets/images/bg2.jpg');">
+        <div class="slider-item" style="background-image: url('https://anggurkita.eudeka.my.id/assets/images/bg2.jpg');">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -113,7 +113,7 @@
                 <div class="row">
                     <div class="col-md-6 order-md-last align-items-stretch d-flex">
                         <div class="category-wrap-2 ftco-animate img align-self-stretch d-flex"
-                            style="background-image: url(http://127.0.0.1:8000/assets/images/landing-page/lp.jpg);">
+                            style="background-image: url(https://anggurkita.eudeka.my.id/assets/images/landing-page/lp.jpg);">
                             <div class="text text-center">
                                 <h2>Anggur</h2>
                                 <p>Hidup Sehat Dengan Memakan Buah Segar dan Sehat</p>
@@ -123,13 +123,13 @@
                     </div>
                     <div class="col-md-6">
                         <div class="category-wrap ftco-animate img mb-4 d-flex align-items-end"
-                            style="background-image: url(http://127.0.0.1:8000/assets/images/landing-page/anggurtable.jpg);">
+                            style="background-image: url(https://anggurkita.eudeka.my.id/assets/images/landing-page/anggurtable.jpg);">
                             <div class="text px-3 py-1">
                                 <h2 class="mb-0"><a href="{{route('shop')}}">Anggur Hijau (Green Grapes)</a></h2>
                             </div>
                         </div>
                         <div class="category-wrap ftco-animate img d-flex align-items-end"
-                            style="background-image: url(http://127.0.0.1:8000/assets/images/landing-page/anggurblack.jpeg);">
+                            style="background-image: url(https://anggurkita.eudeka.my.id/assets/images/landing-page/anggurblack.jpeg);">
                             <div class="text px-3 py-1">
                                 <h2 class="mb-0"><a href="{{route('shop')}}">Anggur Hitam (Black Grapes)</a></h2>
                             </div>
@@ -140,13 +140,13 @@
 
             <div class="col-md-4">
                 <div class="category-wrap ftco-animate img mb-4 d-flex align-items-end"
-                    style="background-image: url(http://127.0.0.1:8000/assets/images/landing-page/anggurmerah.jpg);">
+                    style="background-image: url(https://anggurkita.eudeka.my.id/assets/images/landing-page/anggurmerah.jpg);">
                     <div class="text px-3 py-1">
                         <h2 class="mb-0"><a href="{{route('shop')}}">Anggur Merah (Red Grapes)</a></h2>
                     </div>
                 </div>
                 <div class="category-wrap ftco-animate img d-flex align-items-end"
-                    style="background-image: url(http://127.0.0.1:8000/assets/images/landing-page/anggurkismis.jpg);">
+                    style="background-image: url(https://anggurkita.eudeka.my.id/assets/images/landing-page/anggurkismis.jpg);">
                     <div class="text px-3 py-1">
                         <h2 class="mb-0"><a href="{{route('shop')}}">Anggur Putih (White Grapes)</a></h2>
                     </div>
@@ -212,7 +212,7 @@
     </div>
 </section>
 
-<section class="ftco-section img" style="background-image: url(http://127.0.0.1:8000/assets/images/bg3.jpg);">
+<section class="ftco-section img" style="background-image: url(https://anggurkita.eudeka.my.id/assets/images/bg3.jpg);">
     <div class="container">
         <div class="row justify-content-end">
             <div class="col-md-6 heading-section ftco-animate deal-of-the-day ftco-animate">
