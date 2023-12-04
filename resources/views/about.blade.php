@@ -12,7 +12,7 @@
 @include('layouts.navigation')
 <!-- END nav -->
 
-<div class="hero-wrap hero-bread" style="background-image: url('http://127.0.0.1:8000/assets/images/bg-cart.jpg');">
+<div class="hero-wrap hero-bread" style="background-image: url('https://anggurkita.eudeka.my.id/assets/images/bg-cart.jpg');">
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
             <div class="col-md-9 ftco-animate text-center">
@@ -54,7 +54,7 @@
 </section>
 
 <section class="ftco-section ftco-counter img" id="section-counter"
-    style="background-image: url(http://127.0.0.1:8000/assets/images/bg3.jpg);">
+    style="background-image: url(https://anggurkita.eudeka.my.id/assets/images/bg3.jpg);">
     <div class="container">
         <div class="row justify-content-center py-5">
             <div class="col-md-10">

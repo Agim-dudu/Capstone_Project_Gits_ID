@@ -14,7 +14,7 @@
 
 <!-- Reusable Hero BG -->
 @component('components.hero-bg')
-@slot('backgroundImageUrl', 'http://127.0.0.1:8000/assets/images/bg-cart.jpg')
+@slot('backgroundImageUrl', 'https://anggurkita.eudeka.my.id/assets/images/bg-cart.jpg')
 @slot('homeUrl', '/')
 @slot('homeText', 'Home')
 @slot('pageName', 'Wishlist')

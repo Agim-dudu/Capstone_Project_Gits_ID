@@ -14,7 +14,7 @@
 
 <!-- Gambar Hero yang Dapat Digunakan Kembali -->
 @component('components.hero-bg', [
-'backgroundImageUrl' => 'http://127.0.0.1:8000/assets/images/bg-cart.jpg',
+'backgroundImageUrl' => 'https://anggurkita.eudeka.my.id/assets/images/bg-cart.jpg',
 'homeUrl' => '/',
 'homeText' => 'Beranda',
 'pageName' => 'Keranjang Anda',
